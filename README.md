@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>B.Tech CSE student specializing in AI, Machine Learning, and Data Science.  <br>Founder of Thinknode AI — building AI-driven marketing automation systems for global clients.<br><br>With 3+ years of experience in graphic design, media management, and digital strategy, I combine technical skills with business execution.  <br><br>Currently focused on:<br>- AI automation systems<br>- Full-stack development<br><br>- Scalable product building<br><br>I believe in building real-world solutions, not just projects.
 
 
