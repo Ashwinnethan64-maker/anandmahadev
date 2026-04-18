@@ -1,43 +1,17 @@
-<div align="center">
+# 
+🔭 I'm currently working on HACK-MATE — the ultimate hackathon copilot for builders<br>👯 I'm looking to collaborate on AI automation systems, full-stack products & open source tools<br>🤝 I'm looking for help with GSoC contributions & scaling Thinknode AI<br>🌱 I'm currently learning LLM fine-tuning, Django Channels & advanced AI pipelines<br>💬 Ask me about AI automation, product building, hackathon strategy & graphic design<br>⚡ Fun fact I placed 2nd out of 360 teams at an international hackathon while still in college
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Anand%20M&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Building%20Real%20Solutions.%20Not%20Just%20Projects.&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%7C+Founder+of+Thinknode+AI;🏆+2nd+Prize+%40+International+Hackathon+(2%2F360);🥇+OpenAI+Buildathon+2026+Finalist;AI+Automation+%7C+Full-Stack+Dev+%7C+Product" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anand.mahadevv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-mahadev/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anand M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandgowda82961@gmail.com) 
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-anandmahadev.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://anandmahadev.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-mahadev)
-[![Instagram](https://img.shields.io/badge/Instagram-@anand.mahadevv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anand.mahadevv)
-[![Email](https://img.shields.io/badge/Email-anandgowda82961@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandgowda82961@gmail.com)
-
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anandmahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anandmahadev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anandmahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anandmahadev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 About Me
-
-name: Anand M
-location: Mangalore, India
-role: B.Tech CSE (AI) Student | Founder @ Thinknode AI
-experience: 3+ years in Graphic Design, Media & Digital Strategy
-focus:
-  - AI Automation Systems for Global Clients
-  - Full-Stack Product Development
-  - Scalable Business Execution
-philosophy: "Build real-world solutions, not just projects."
-achievements:
-  - 🏆 2nd Prize — International Hackathon (2 of 360 teams)
-  - 🥇 OpenAI Buildathon 2026 Finalist
-
-<div align="center">
-
-*"I believe in building real-world solutions, not just projects."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
