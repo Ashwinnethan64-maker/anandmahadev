@@ -1,5 +1,5 @@
 # 
-🔭 I'm currently working on HACK-MATE — the ultimate hackathon copilot for builders<br>👯 I'm looking to collaborate on AI automation systems, full-stack products & open source tools<br>🤝 I'm looking for help with GSoC contributions & scaling Thinknode AI<br>🌱 I'm currently learning LLM fine-tuning, Django Channels & advanced AI pipelines<br>💬 Ask me about AI automation, product building, hackathon strategy & graphic design<br>⚡ Fun fact I placed 2nd out of 360 teams at an international hackathon while still in college
+I'm currently working on HACK-MATE — the ultimate hackathon copilot for builders<br>👯 I'm looking to collaborate on AI automation systems, full-stack products & open source tools<br>🤝 I'm looking for help with GSoC contributions & scaling Thinknode AI<br>🌱 I'm currently learning LLM fine-tuning, Django Channels & advanced AI pipelines<br>💬 Ask me about AI automation, product building, hackathon strategy & graphic design<br>⚡ Fun fact I placed 2nd out of 360 teams at an international hackathon while still in college
 
 
 ## 🌐 Socials:
