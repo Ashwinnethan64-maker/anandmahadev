@@ -1,7 +1,3 @@
-# 
-
-HI MYSELF ANAND MAHADEV 
-I'm currently working on HACK-MATE — the ultimate hackathon copilot for builders  
 
 
 # 📊 GitHub Stats:
